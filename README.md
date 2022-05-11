@@ -1,4 +1,4 @@
-- 👋 Hello digital world !
+#- 👋 Hello digital world !
 
 I am a bartender / restaurant manager / full-time father turned aspiring software engineer.
 
